@@ -1,0 +1,86 @@
+* {
+   margin: 0;
+   padding: 0;}
+   body {background-color: black;}
+
+.header{background-image: linear-gradient(#5a0911,#72101a);
+    display: flex;
+    justify-content: space-around;
+    padding: 18px 0;
+    font-family: 'Poppins',sans-serif;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ;}
+
+.header-image{width: 
+    12%;}
+
+.header-item-list{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 18px 0;
+    font-size: 32px;}
+
+.image-1{
+    width: 18%;
+    padding: 10px 0;}
+
+.intro {background-image: linear-gradient(#181818,#0000);
+color: rgb(168, 168, 168);
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;}
+
+.intro-conteudo{
+    width: 35%;}
+
+.titulo{
+    padding: 24px 0;
+    font-family: 'Pirata One', cursive;
+    font-size: 50px;}
+
+.texto-um{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;}
+
+.texto-dois{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;}
+
+.albuns-todo{
+    text-align: center;
+    color: rgb(168, 168, 168);
+    font-family: 'Pirata One', cursive;
+    background-image: linear-gradient(#0000,#181818);
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    font-size: 25px;
+    padding-bottom: 45px;}
+
+.albuns-titulo{
+    text-align: center;
+    color: rgb(168, 168, 168);
+    font-family: 'Pirata One', cursive;
+    font-size: 38px;
+    padding: 26px;}
+
+.capa-1{
+    width: 35%;}
+
+.capa-2{
+    width: 35%;}
+
+.capa-3{
+    width: 35%;}
+
+.rodape-imagem{
+    width: 8%;}
+    
+.footer{
+    background-image: linear-gradient(#72101a, #5a0911);
+    padding: 15px 0;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;}
+
+
